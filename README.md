@@ -1,6 +1,8 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikks&layout=compact&langs_count=8"/>
+![Vikks's Language stats](https://github-readme-stats.vercel.app/api?username=vikks&show_icons=true&theme=transparent)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
