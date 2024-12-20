@@ -5,9 +5,7 @@
 </p>-->
 
 <p align="center"> 
-<picture>
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikks&layout=compact&theme=vue-dark&hide_border=true&hide=stars,issues" />
-</picture>
+   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikks&layout=compact&theme=vue-dark&hide_border=true&hide=stars,issues" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=vikks&show_icons=true&theme=vue-dark&hide_border=true&hide=stars,issues"
