@@ -5,16 +5,16 @@
 </p>-->
 
 <p align="center"> 
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikks&custom_title=Language%20Stats&layout=compact&theme=vue-dark&hide_border=true&hide=stars,issues" />
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikks&custom_title=OpenSource%20Language%20Stats&layout=compact&theme=vue-dark&hide_border=true&hide=stars,issues" />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vikks&show_icons=true&custom_title=Code%20Stats&theme=vue-dark&hide_border=true&hide=stars,issues"
+    srcset="https://github-readme-stats.vercel.app/api?username=vikks&show_icons=true&custom_title=OpenSource%20Stats&theme=vue-dark&hide_border=true&hide=stars,issues"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vikks&custom_title=Code%20Stats&show_icons=true&theme=vue-dark&hide_border=true&hide=stars,issues"
+    srcset="https://github-readme-stats.vercel.app/api?username=vikks&custom_title=OpenSource%20Stats&show_icons=true&theme=vue-dark&hide_border=true&hide=stars,issues"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=vikks&custom_title=Code%20Stats&show_icons=true&theme=vue-dark&hide_border=true&hide=stars,issues" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=vikks&custom_title=OpenSource%20Stats&show_icons=true&theme=vue-dark&hide_border=true&hide=stars,issues" />
 </picture>
 </p>
